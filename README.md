@@ -2,6 +2,7 @@
 Source control for marketplace database
 
 Setup Guide for MYSQL: 
+
 mysql -u root -p
 ;; enter password when prompted
 
